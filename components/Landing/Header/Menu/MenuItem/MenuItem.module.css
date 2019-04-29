@@ -1,0 +1,7 @@
+.menuItem {
+    margin-right: 30px;
+}
+
+.menuItem:last-child {
+    margin-right: 0;
+}

@@ -1,0 +1,36 @@
+.price {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.14px;
+    color: #464646;
+}
+
+.ratingAndCommentsWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.star {
+    margin-right: 3px;
+}
+
+.star:last-child {
+    margin-right: 0;
+}
+
+.commentsCount {
+    font-size: 13px;
+    letter-spacing: 0.1px;
+    color: #484848;
+    margin-left: 5px;
+    position: relative;
+    top: 1px;
+}

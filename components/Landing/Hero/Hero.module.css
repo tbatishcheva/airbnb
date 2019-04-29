@@ -1,0 +1,22 @@
+.hero {
+    padding: 100px 0;
+}
+.title {
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FC3C4F;
+    margin: 0;
+}
+
+.subtitle {
+    font-weight: 500;
+    font-size: 43px;
+    line-height: 56px;
+    color: #383838;
+    max-width: 70%;
+}
+
+.searchWrapper {
+    margin-top: 30px;
+}
